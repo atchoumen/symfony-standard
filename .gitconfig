@@ -1,9 +1,0 @@
-[alias]
-    oups            = commit --amend -C HEAD
-[color "branch"]
-    current         = yellow bold
-    local           = yellow
-[color "diff"]
-    meta            = cyan
-[color "status"]
-    untracked       = cyan
